@@ -1,0 +1,460 @@
+@media all and (min-width: 1200px) and (max-width: 1500px){
+    .review span {
+        margin: 0 0 0 50px !important;
+        font-size: 16px;
+    }
+}
+
+@media all and (min-width: 992px) and (max-width: 1199px){
+    .review span {
+        margin: 0 0 0 10px !important;
+        font-size: 14px;
+    }
+}
+
+@media all and (min-width: 768px) and (max-width: 991px){
+    .slider {
+        padding: 120px 0;
+        height: 500px;
+    }
+    
+    .heading_content h1 {
+        font-size: 60px;
+    }
+    
+    .Banner_section a.Button {
+        margin: 0px 10px;
+    }
+    
+    .heading_content.w-75.m-auto p {
+        margin: 0 0 35px 0;
+    }
+    
+    .Banner_section .owl-nav {
+        bottom: 30px;
+    }
+    
+    .Banner_section .owl-dots {
+        bottom: 54px;
+    }
+    
+    .VS h1 {
+        font-size: 18px;
+    }
+    
+    .team img {
+        width: 75px;
+    }
+    
+    .row.text-white.join_us {
+        padding: 40px;
+    }
+    
+    .join_us_section_content h1 {
+        font-size: 23px;
+    }
+    
+    .join_us_section_content p {
+        font-size: 11px;
+    }
+    
+    .join_us_section_content a {
+        font-size: 12px;
+    }
+    
+    .join_us_section_img img {
+        margin: 0 0 -40px 0px;
+    }
+    
+    section.Brand_section img {
+        margin: 18px 0;
+    }
+    
+}
+
+@media all and (min-width: 576px) and (max-width: 767px){
+    .heading_content h1 {
+        font-size: 60px;
+    }
+    
+    .heading_content.w-75.m-auto p {
+        font-size: 15px;
+        margin: 0 0 31px 0;
+    }
+    
+    .slider {
+        padding: 100px 0;
+        min-height: 500px;
+    }
+    
+    .Banner_section .owl-nav {
+        bottom: 30px;
+    }
+    
+    .Banner_section .owl-dots {
+        bottom: 55px;
+    }
+    
+    .review span {
+        float: right;
+        margin: 0 15px 0 0;
+    }
+    
+    .counter_content {
+        width: 85%;
+        margin: 10px auto;
+    }
+    
+    .row.text-white.join_us {
+        padding: 60px 50px 0 50px;
+    }
+    
+    .join_us_section_img img {
+        margin: 0;
+    }
+    
+    
+    section.Brand_section img {
+        margin: 20px 0;
+    }
+    
+    footer h5 {
+        margin: 20px 0;
+    }
+}
+
+@media all and (min-width: 481px) and (max-width: 575px){
+    .heading_content h1 {
+        margin: 0 0 5px 0px;
+        font-size: 44px;
+    }
+    
+    .heading_content p {
+        font-size: 13px;
+    }
+    
+    .slider {
+        padding: 71px 0;
+        min-height: 401px;
+    }
+    
+    .Banner_section a.Button {
+        margin: 0;
+        font-size: 13px;
+        padding: 10px 12px;
+    }
+    
+    .Banner_section .owl-dots {
+        bottom: 30px;
+    }
+    
+    .Banner_section .owl-nav {
+        bottom: 5px;
+    }
+    
+    .review span {
+        font-size: 15px;
+        float: right;
+    }
+    
+    .counter_content {
+        padding: 40px 0;
+        width: 90%;
+        margin: 10px auto;
+    }
+    
+    .team img {
+        width: 70px;
+    }
+    
+    .VS h1 {
+        font-size: 22px;
+    }
+    
+    .join_us_section_content {
+        padding: 40px 0;
+        margin: 0;
+        width: 100%;
+    }
+    
+    .join_us_section_content span {
+        font-size: 13px;
+        display: block;
+        letter-spacing: 2px;
+    }
+    
+    .join_us_section_content h1 {
+        font-size: 19px;
+    }
+    
+    .join_us_section_content p {
+        font-size: 11px;
+    }
+    
+    .join_us_section_content a.Button {
+        font-size: 10px;
+    }
+    
+    .join_us_section_img img {
+        margin: 0 0;
+    }
+    
+    .row.brand_item img {
+        margin: 10px 0;
+    }
+    
+    section.Video_section .row .video_popup {
+        min-height: 341px;
+    }
+    
+    .col-lg-12.col-md-12.col-sm-12.video_popup {
+        height: 150px;
+    }
+    
+    .footer_logo h4 {
+        font-size: 40px;
+    }
+    
+    footer .col-lg-2 .col-md-6 {
+        text-align: center;
+    }
+    
+    footer h4 {
+        text-align: center;
+    }
+    
+    footer h5 {
+        text-align: center;
+        margin: 20px 0 0  0;
+    }
+    
+    footer .col-lg-2 ul li a {
+        display: block;
+        text-align: center;
+        margin: 10px 0;
+    }
+}
+
+@media all and (min-width: 375px) and (max-width: 480px){
+    .heading_content h1 {
+        margin: 0 0 5px 0px;
+        font-size: 40px;
+    }
+    
+    .heading_content p {
+        font-size: 11px;
+    }
+    
+    .slider {
+        padding: 71px 0;
+        min-height: 401px;
+    }
+    
+    .Banner_section a.Button {
+        margin: 0;
+        font-size: 11px;
+        padding: 10px 12px;
+    }
+    
+    .Banner_section .owl-dots {
+        bottom: 30px;
+    }
+    
+    .Banner_section .owl-nav {
+        bottom: 5px;
+    }
+    
+    .review span {
+        font-size: 15px;
+        float: right;
+    }
+    
+    .counter_content {
+        padding: 40px 0;
+        width: 90%;
+        margin: 10px auto;
+    }
+    
+    .team img {
+        width: 70px;
+    }
+    
+    .VS h1 {
+        font-size: 22px;
+    }
+    
+    .join_us_section_content {
+        padding: 40px 0;
+        margin: 0;
+        width: 100%;
+    }
+    
+    .join_us_section_content span {
+        font-size: 13px;
+        display: block;
+        letter-spacing: 2px;
+    }
+    
+    .join_us_section_content h1 {
+        font-size: 19px;
+    }
+    
+    .join_us_section_content p {
+        font-size: 11px;
+    }
+    
+    .join_us_section_content a.Button {
+        font-size: 10px;
+    }
+    
+    .join_us_section_img img {
+        margin: 0 0;
+    }
+    
+    .row.brand_item img {
+        margin: 10px 0;
+    }
+    
+    section.Video_section .row .video_popup {
+        min-height: 341px;
+    }
+    
+    .col-lg-12.col-md-12.col-sm-12.video_popup {
+        height: 150px;
+    }
+    
+    .footer_logo h4 {
+        font-size: 40px;
+    }
+    
+    footer .col-lg-2 .col-md-6 {
+        text-align: center;
+    }
+    
+    footer h4 {
+        text-align: center;
+    }
+    
+    footer h5 {
+        text-align: center;
+        margin: 20px 0 0  0;
+    }
+    
+    footer .col-lg-2 ul li a {
+        display: block;
+        text-align: center;
+        margin: 10px 0;
+    }
+}
+
+@media all and (min-width: 320px) and (max-width: 374px){
+    .heading_content h1 {
+        font-size: 35px;
+    }
+    
+    .heading_content p {
+        font-size: 10px;
+    }
+    
+    .slider {
+        padding: 71px 0;
+        min-height: 360px;
+    }
+    
+    .Banner_section a.Button {
+        margin: 0;
+        font-size: 9px;
+        padding: 10px 12px;
+    }
+    
+    .Banner_section .owl-dots {
+        bottom: 30px;
+    }
+    
+    .Banner_section .owl-nav {
+        bottom: 5px;
+    }
+    
+    .review span {
+        font-size: 13px;
+        float: right;
+    }
+    
+    .counter_content {
+        padding: 40px 0;
+        width: 90%;
+        margin: 10px auto;
+    }
+    
+    .team img {
+        width: 70px;
+    }
+    
+    .VS h1 {
+        font-size: 20px;
+    }
+    
+    .join_us_section_content {
+        padding: 40px 0;
+        margin: 0;
+        width: 100%;
+    }
+    
+    .join_us_section_content span {
+        font-size: 13px;
+        display: block;
+        letter-spacing: 2px;
+    }
+    
+    .join_us_section_content h1 {
+        font-size: 16px;
+    }
+    
+    .join_us_section_content p {
+        font-size: 10px;
+    }
+    
+    .join_us_section_content a.Button {
+        font-size: 10px;
+    }
+    
+    .join_us_section_img img {
+        margin: 0 0;
+    }
+    
+    .row.brand_item img {
+        margin: 10px 0;
+    }
+    
+    section.Video_section .row .video_popup {
+        min-height: 341px;
+    }
+    
+    .col-lg-12.col-md-12.col-sm-12.video_popup {
+        height: 150px;
+    }
+    
+    .footer_logo h4 {
+        font-size: 40px;
+    }
+    
+    footer .col-lg-2 .col-md-6 {
+        text-align: center;
+    }
+    
+    footer h4 {
+        text-align: center;
+    }
+    
+    footer h5 {
+        text-align: center;
+        margin: 20px 0 0  0;
+    }
+    
+    footer .col-lg-2 ul li a {
+        display: block;
+        text-align: center;
+        margin: 10px 0;
+    }
+    
+}
